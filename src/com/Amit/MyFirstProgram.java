@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by qlogy on 11/21/13.
+ * Created by qlogy on
  */
 public class MyFirstProgram {
 
